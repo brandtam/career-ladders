@@ -11,16 +11,7 @@
         are just one tool embedded in a deeper process.
       </p>
       <p>
-        <strong
-          ><a
-            href="https://css-tricks.com/the-importance-of-career-laddering/"
-            target="_blank"
-            >This writeup explains a bit more about that process ></a
-          ></strong
-        >
-      </p>
-      <p>
-        It’s not important for an Engineering Leader to use my process. It is,
+        It’s not important for an Engineering Leader to use this process. It is,
         however,
         <span class="italic">very important</span> that an Engineering Manager
         is clear with their employees about expectations and direction.

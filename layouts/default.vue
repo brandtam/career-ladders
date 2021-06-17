@@ -30,7 +30,7 @@ export default {
 
 <style>
 html {
-  font-family: "Whitney A", "Whitney B";
+  font-family: "Nunito Sans";
   font-style: normal;
   font-weight: 400;
   font-size: 19px;
@@ -152,7 +152,6 @@ a {
 h1,
 h2,
 h3 {
-  font-family: "Verlag Cond A", "Verlag Cond B";
   font-style: normal;
 }
 

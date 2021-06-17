@@ -17,8 +17,8 @@ export default {
       { rel: "icon", type: "image/x-icon", href: "/favicon.ico" },
       {
         rel: "stylesheet",
-        href: "https://cloud.typography.com/7626114/6154772/css/fonts.css"
-      }
+        href: "https://fonts.googleapis.com/css2?family=Nunito+Sans&display=swap"
+      },
     ]
   },
 
