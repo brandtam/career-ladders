@@ -59,7 +59,7 @@ main {
   min-height: 100vh;
   min-width: 100%;
   display: grid;
-  grid-template-columns: 1.5fr 2fr 1fr;
+  grid-template-columns: 1fr 2fr 1fr;
   grid-template-rows: 75px 250px repeat(3, 1fr) 50px;
   grid-column-gap: 80px;
   grid-row-gap: 50px;
@@ -100,7 +100,7 @@ footer {
 section.maincontent {
   grid-area: 3 / 1 / 7 / 3;
   display: grid;
-  grid-template-columns: 1.5fr 2fr;
+  grid-template-columns: 1.2fr 2fr;
   grid-template-rows: 1fr;
   grid-column-gap: 80px;
   position: relative;
@@ -183,14 +183,14 @@ p {
 
 @media screen and (max-width: 1460px) {
   main {
-    grid-template-columns: 1.5fr 3fr 100px;
+    grid-template-columns: 1.2fr 3fr 100px;
     grid-template-rows: 75px 250px repeat(3, 1fr) 50px;
     grid-column-gap: 40px;
     grid-row-gap: 30px;
   }
 
   section.maincontent {
-    grid-template-columns: 1.5fr 3fr;
+    grid-template-columns: 1.2fr 3fr;
     grid-template-rows: 1fr;
     grid-column-gap: 40px;
   }

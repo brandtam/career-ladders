@@ -14,6 +14,7 @@ export default {};
 
 <style scoped>
 .bkimg {
+  display: none;
   padding: 0 5%;
 }
 </style>

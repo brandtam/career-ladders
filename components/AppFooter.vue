@@ -1,9 +1,5 @@
 <template>
   <footer>
-    <p>
-      Forked with 🌮 from the inimitiable Sarah Drasner,
-      <a href="https://github.com/sdras/career-ladders">@sdras Career Ladders</a>
-    </p>
   </footer>
 </template>
 
