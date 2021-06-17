@@ -21,8 +21,6 @@
     <div class="nav-display" v-if="isDisplaying">
       <ul @click="isOpen = false">
         <li><nuxt-link to="/engineering/">Engineering</nuxt-link></li>
-        <li><nuxt-link to="/devex/">Developer Experience</nuxt-link></li>
-        <li><nuxt-link to="/docs/">Documentation</nuxt-link></li>
         <li><nuxt-link to="/about/">About</nuxt-link></li>
       </ul>
     </div>
@@ -86,6 +84,7 @@ a {
 .nuxt-link-exact-active {
   font-weight: bold;
   color: #7e1ecb;
+  color: #007df2;
 }
 
 .nav-icon {

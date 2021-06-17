@@ -27,8 +27,6 @@
       </p>
       <hr />
       <h2><nuxt-link to="/engineering">Engineering ▸</nuxt-link></h2>
-      <h2><nuxt-link to="/devex">Developer Experience ▸</nuxt-link></h2>
-      <h2><nuxt-link to="/docs">Documentation ▸</nuxt-link></h2>
       <h3 class="italic">tl;dr</h3>
       <p>
         Roles up to and including Senior, ladders are constructed around

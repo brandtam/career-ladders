@@ -42,7 +42,7 @@ html {
   min-height: 100vh;
   min-width: 100%;
   box-sizing: border-box;
-  border-left: 15px solid #7e1ecb;
+  border-left: 15px solid #007df2;
   background: #f0f0f0;
   color: #2d2d2d;
   line-height: 1.4;
@@ -142,7 +142,7 @@ section.maincontent {
 
 a {
   text-decoration: none;
-  color: #7e1ecb;
+  color: #007df2;
 }
 
 .italic {

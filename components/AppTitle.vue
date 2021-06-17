@@ -2,8 +2,7 @@
   <div class="title">
     <h1>Career Ladders</h1>
     <p class="italic">
-      A sample of career ladders I use for my organization, open sourced for
-      anyone.
+      Career Ladders
     </p>
   </div>
 </template>

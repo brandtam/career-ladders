@@ -227,7 +227,9 @@
           </li>
           <li>
             Removes barriers by working with others around a shared need or
-            customer benefit.<br />
+            customer benefit.
+          </li>
+          <li>
             Creates strategies that cross organizational boundaries to achieve
             broad business goals or influence.
           </li>

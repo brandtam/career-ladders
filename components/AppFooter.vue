@@ -1,10 +1,8 @@
 <template>
   <footer>
     <p>
-      Open sourced with 🌮 by Sarah Drasner,
-      <a href="https://twitter.com/sarah_edo">@sarah_edo (twitter)</a> &
-      <a href="https://github.com/sdras">@sdras (github)</a>
-      <br />Hosted with <a href="https://bit.ly/2G29YwK">Netlify</a>
+      Forked with 🌮 from the inimitiable Sarah Drasner,
+      <a href="https://github.com/sdras/career-ladders">@sdras Career Ladders</a>
     </p>
   </footer>
 </template>
