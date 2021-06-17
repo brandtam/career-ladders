@@ -3,14 +3,6 @@
     <div class="content">
       <hr />
       <p>
-        Career laddering is a system used to show what expectations are at
-        different levels of a role, a purpose of which can be defining how one
-        might be promoted. I’ve personally found being transparent about
-        expectations helpful as an Engineering Leader, but is only one
-        supportive piece of a whole. It’s critical that career laddering docs
-        are just one tool embedded in a deeper process.
-      </p>
-      <p>
         It’s not important for an Engineering Leader to use this process. It is,
         however,
         <span class="italic">very important</span> that an Engineering Manager
