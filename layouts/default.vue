@@ -165,7 +165,7 @@ h3 {
 }
 
 h1 {
-  font-size: 120px;
+  font-size: 100px;
   margin-top: 75px;
 }
 
@@ -198,7 +198,7 @@ p {
 
 @media screen and (max-width: 1200px) {
   h1 {
-    font-size: 80px;
+    font-size: 70px;
     font-weight: bold;
   }
 
