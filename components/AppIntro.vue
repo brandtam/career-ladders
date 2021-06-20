@@ -3,10 +3,11 @@
     <div class="content">
       <hr />
       <p>
-        It’s not important for an Engineering Leader to use this process. It is,
-        however,
-        <span class="italic">very important</span> that an Engineering Manager
-        is clear with their employees about expectations and direction.
+        It’s not important for a leader to use
+        <span class="italic">this</span> process. It is, however,
+        <span class="italic">very important</span> that a manager communicates
+        cleary with their employees about expectations and direction. This tool
+        is intended to serve as a piece of that communication.
       </p>
       <hr />
       <h2><nuxt-link to="/engineering">Engineering ▸</nuxt-link></h2>

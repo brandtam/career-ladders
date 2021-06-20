@@ -28,6 +28,18 @@
 
     <div class="content" v-scroll-spy>
       <div>
+        <h2>General Responsibilities</h2>
+        <p class="italic">
+          Everyone should work on these in every stage of their career.
+        </p>
+        <ul>
+          <li>
+            Actively participates in group discussions, groomings and problem
+            solving with the team in general.
+          </li>
+        </ul>
+      </div>
+      <div>
         <h2 id="engineer-i">
           Engineer I
           <a href="#engineer-i">#</a>
@@ -50,7 +62,7 @@
           </li>
           <li>
             Helps debug technical problems. Submits issues so that we can
-            document and improve our service.
+            document and improve our digital products.
           </li>
         </ul>
         <p>
@@ -88,10 +100,10 @@
           </li>
         </ul>
         <p>
-          <em
-            ><strong>Experience</strong>: Typically requires a minimum of 2
-            years of professional experience.</em
-          >
+          <em>
+            <strong>Experience</strong>: Typically requires a minimum of 2 years
+            of professional experience.
+          </em>
         </p>
       </div>
       <div>
@@ -105,26 +117,26 @@
         </p>
         <ul>
           <li>
+            Helps support the work of their peers by pair programming,
+            reviewing, and providing mentoring.
+          </li>
+          <li>
             Defines and executes on an execution plan for specific features or
             internal system maintenance/upgrade.
           </li>
+          <li>Adjusts well to shifting priorities when necessary.</li>
           <li>
             Actively participates in Engineering efforts that help streamline
             the experience of our Product.
           </li>
           <li>
-            Helps support the work of their peers by pair programming,
-            reviewing, and providing mentoring.
-          </li>
-          <li>Adjusts well to shifting priorities when necessary.</li>
-          <li>
-            Strives to reduce technical debt, while communicating with teammates
-            about any larger refactor.
-          </li>
-          <li>
             Works to understand the purpose of the features the team is working
             on, and helps communicate that purpose to team members. Asks
             clarifying questions when expectations are unclear.
+          </li>
+          <li>
+            Strives to reduce technical debt, while communicating with teammates
+            about any larger refactor.
           </li>
           <li>
             When tasks are large, works on scoping work down into smaller,
@@ -140,12 +152,17 @@
             maintenance required for the scope of the work. Considers legibility
             both in authoring and reviewing pull requests.
           </li>
+          <li>
+            At times, takes ownership of small to medium sized initiatives. This
+            includes taking responsibility for timelines, an communication
+            across teams when there are design or business related questions.
+          </li>
         </ul>
         <p>
-          <em
-            ><strong>Experience</strong>: Typically requires a minimum of 5
-            years of professional experience.</em
-          >
+          <em>
+            <strong>Experience</strong>: Typically requires a minimum of 5 years
+            of professional experience.
+          </em>
         </p>
       </div>
       <div>
@@ -192,10 +209,10 @@
           </li>
         </ul>
         <p>
-          <em
-            ><strong>Experience</strong>: Typically requires a minimum of 8
-            years of professional experience.</em
-          >
+          <em>
+            <strong>Experience</strong>: Typically requires a minimum of 8 years
+            of professional experience.
+          </em>
         </p>
       </div>
       <div>
@@ -264,10 +281,10 @@
           </li>
         </ul>
         <p>
-          <em
-            ><strong>Experience</strong>: Typically requires a minimum of 10
-            years of professional experience.</em
-          >
+          <em>
+            <strong>Experience</strong>: Typically requires a minimum of 10
+            years of professional experience.
+          </em>
         </p>
       </div>
       <div>
@@ -293,13 +310,13 @@
             people.
           </li>
           <li>
-            Carefully considers communication modality when collaborating,
-            especially in tricky circumstances.
-          </li>
-          <li>
             Works on system architecture, thinking through problems and
             anticipating usage into the future. Builds systems that scale to the
             appropriate amount.
+          </li>
+          <li>
+            Carefully considers communication methods when collaborating,
+            especially in tricky circumstances.
           </li>
           <li>
             Effectively communicates when there are problems, understanding
@@ -308,10 +325,10 @@
           </li>
         </ul>
         <p>
-          <em
-            ><strong>Experience</strong>: Typically requires a minimum of 12
-            years of professional experience.</em
-          >
+          <em>
+            <strong>Experience</strong>: Typically requires a minimum of 12
+            years of professional experience.
+          </em>
         </p>
       </div>
       <div>

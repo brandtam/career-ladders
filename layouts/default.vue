@@ -59,7 +59,7 @@ main {
   min-height: 100vh;
   min-width: 100%;
   display: grid;
-  grid-template-columns: 1fr 2fr 1fr;
+  grid-template-columns: 1.5fr 4fr 0.5fr;
   grid-template-rows: 75px 250px repeat(3, 1fr) 50px;
   grid-column-gap: 80px;
   grid-row-gap: 50px;
@@ -153,6 +153,7 @@ h1,
 h2,
 h3 {
   font-style: normal;
+  display: inline-block;
 }
 
 h1 {
@@ -165,8 +166,8 @@ h3 {
 }
 
 h1 {
-  font-size: 100px;
-  margin-top: 75px;
+  font-size: 70px;
+  margin-top: 35px;
 }
 
 p {
@@ -183,7 +184,7 @@ p {
 
 @media screen and (max-width: 1460px) {
   main {
-    grid-template-columns: 1.2fr 3fr 100px;
+    grid-template-columns: 1.2fr 3fr 0.3fr;
     grid-template-rows: 75px 250px repeat(3, 1fr) 50px;
     grid-column-gap: 40px;
     grid-row-gap: 30px;
@@ -198,7 +199,7 @@ p {
 
 @media screen and (max-width: 1200px) {
   h1 {
-    font-size: 70px;
+    font-size: 50px;
     font-weight: bold;
   }
 
@@ -214,7 +215,7 @@ p {
 
 @media screen and (max-width: 900px) {
   h1 {
-    font-size: 50px;
+    font-size: 30px;
   }
 
   main {

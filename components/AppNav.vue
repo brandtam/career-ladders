@@ -49,7 +49,9 @@ export default {
       let timer;
       return (...args) => {
         clearTimeout(timer);
-        timer = setTimeout(() => { func.apply(this, args); }, timeout);
+        timer = setTimeout(() => {
+          func.apply(this, args);
+        }, timeout);
       };
     },
     setMatchMedia() {
@@ -57,7 +59,7 @@ export default {
     }
   },
   mounted() {
-    this.setMatchMedia()
+    this.setMatchMedia();
     window.addEventListener("resize", this.debounce(this.setMatchMedia));
   },
   unmounted() {
