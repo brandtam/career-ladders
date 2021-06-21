@@ -4,7 +4,7 @@
     <app-logo></app-logo>
     <app-title></app-title>
     <app-nav></app-nav>
-    <app-github-corner></app-github-corner>
+    <!-- <app-github-corner></app-github-corner> -->
     <Nuxt />
     <app-footer></app-footer>
   </main>
@@ -14,7 +14,7 @@
 import AppLogo from "@/components/AppLogo.vue";
 import AppTitle from "@/components/AppTitle.vue";
 import AppNav from "@/components/AppNav.vue";
-import AppGithubCorner from "@/components/AppGithubCorner.vue";
+// import AppGithubCorner from "@/components/AppGithubCorner.vue";
 import AppFooter from "@/components/AppFooter.vue";
 
 export default {
@@ -22,7 +22,7 @@ export default {
     AppLogo,
     AppTitle,
     AppNav,
-    AppGithubCorner,
+    // AppGithubCorner,
     AppFooter
   }
 };

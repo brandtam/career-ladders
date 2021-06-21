@@ -1,7 +1,7 @@
 <template>
   <div class="cat">
     <a
-      href="https://github.com/BeachbodyNewBrand/career-ladders"
+      href="https://github.com/BeachbodyNewBrand/openfit-career-ladders"
       class="github-corner"
       aria-label="View source on Github"
       ><svg
