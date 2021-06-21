@@ -3,6 +3,9 @@
     <div class="sidebar">
       <ul v-scroll-spy-active v-scroll-spy-link>
         <li>
+          <a>Basics</a>
+        </li>
+        <li>
           <a>Engineer I</a>
         </li>
         <li>
@@ -28,7 +31,7 @@
 
     <div class="content" v-scroll-spy>
       <div>
-        <h2>General Responsibilities</h2>
+        <h2>Basic Responsibilities</h2>
         <p class="italic">
           Everyone should work on these in every stage of their career.
         </p>
