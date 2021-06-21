@@ -230,8 +230,9 @@
             across the team so that others may learn from and improve on them.
           </li>
           <li>
-            Deep industry knowledge and awareness of the technical landscape.
-            Incorporates this analysis as appropriate into strategy.
+            Maintains deep industry knowledge and awareness of the currentColor
+            technical landscape. Incorporates this analysis as appropriate into
+            strategy.
           </li>
           <li>
             Not only leads, but ideates new engineering efforts. Provides
