@@ -61,7 +61,7 @@
           </li>
           <li>
             Makes an impact by delivering features, refactoring existing code,
-            or updating systems enable other developers to be successful.
+            or updating systems to enable other developers to be successful.
           </li>
           <li>
             Helps debug technical problems. Submits issues so that we can
@@ -157,7 +157,7 @@
           </li>
           <li>
             At times, takes ownership of small to medium sized initiatives. This
-            includes taking responsibility for timelines, an communication
+            includes taking responsibility for timelines, and communication
             across teams when there are design or business related questions.
           </li>
         </ul>
@@ -233,9 +233,8 @@
             across the team so that others may learn from and improve on them.
           </li>
           <li>
-            Maintains deep industry knowledge and awareness of the currentColor
-            technical landscape. Incorporates this analysis as appropriate into
-            strategy.
+            Maintains deep industry knowledge and awareness of the technical
+            landscape. Incorporates this analysis as appropriate into strategy.
           </li>
           <li>
             Not only leads, but ideates new engineering efforts. Provides
@@ -264,9 +263,11 @@
           </li>
           <li>
             Sets clear and challenging goals for a portfolio of work, and
-            pursues them with enthusiasm and passion. Understands business
-            objectives and incorporates these into this body of work. Critically
-            reviews multiple plans and adjusts as needed.
+            pursues them with enthusiasm and passion.
+          </li>
+          <li>
+            Understands business objectives and incorporates these into this
+            body of work. Critically reviews multiple plans and adjusts as needed.
           </li>
           <li>
             Drives measurable growth by scaling/mentoring teams, affecting
@@ -315,8 +316,8 @@
           </li>
           <li>
             Works on system architecture, thinking through problems and
-            anticipating usage into the future. Builds systems that scale to the
-            appropriate amount.
+            anticipating usage into the future. Builds systems that scale
+            appropriately.
           </li>
           <li>
             Carefully considers communication methods when collaborating,
@@ -337,7 +338,7 @@
       </div>
       <div>
         <h2 id="tech-lead">
-          Misc: Tech Lead <a class="direct-link" href="#tech-lead">#</a>
+          Misc: Project Lead <a class="direct-link" href="#tech-lead">#</a>
         </h2>
         <p>
           A Tech Lead is responsible for leading a particular project, and
