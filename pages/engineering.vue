@@ -31,7 +31,9 @@
 
     <div class="content" v-scroll-spy>
       <div>
-        <h2>Basic Responsibilities</h2>
+        <h2>Basic Responsibilities
+          <a href="#basics">#</a>
+        </h2>
         <p class="italic">
           Everyone should work on these in every stage of their career.
         </p>
