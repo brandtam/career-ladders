@@ -2,14 +2,6 @@
   <div>
     <div class="content">
       <hr />
-      <p>
-        It’s not important for a leader to use
-        <span class="italic">this</span> process. It is, however,
-        <span class="italic">very important</span> that a manager communicates
-        cleary with their employees about expectations and direction. This tool
-        is intended to serve as a piece of that communication.
-      </p>
-      <hr />
       <h2><nuxt-link to="/engineering">Engineering ▸</nuxt-link></h2>
       <h3 class="italic">tl;dr</h3>
       <p>
@@ -18,11 +10,15 @@
       </p>
       <p>
         At Staff level, the career expands to help others be successful with
-        what you do and know, and scale yourself.
+        what you do and know, and scale yourself. Responsibilities increase to
+        include more architectural solutioning as well as team and project
+        management.
       </p>
       <p>
         At Principal and beyond, you are trying to help others be the best that
         they can be, removing yourself and meeting others where they are.
+        Responsibilities increase to include more business need anticipation,
+        roadmap management and cross-team architectural suggestions.
       </p>
     </div>
   </div>
