@@ -1,20 +1,12 @@
 <template>
-  <fragment>
+  <div>
     <div class="sidebar">
-      <div class="bkimg">
-        <img src="/ladder-bk.jpg" width="100%" />
-      </div>
     </div>
-  </fragment>
+  </div>
 </template>
 
 <script>
 export default {};
 </script>
 
-<style scoped>
-.bkimg {
-  display: none;
-  padding: 0 5%;
-}
-</style>
+<style scoped></style>

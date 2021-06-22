@@ -1,5 +1,5 @@
 <template>
-  <fragment>
+  <div>
     <div class="content">
       <hr />
       <p>
@@ -25,7 +25,7 @@
         they can be, removing yourself and meeting others where they are.
       </p>
     </div>
-  </fragment>
+  </div>
 </template>
 
 <script>
