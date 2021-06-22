@@ -31,7 +31,8 @@
 
     <div class="content" v-scroll-spy>
       <div>
-        <h2>Basic Responsibilities
+        <h2>
+          Basic Responsibilities
           <a href="#basics">#</a>
         </h2>
         <p class="italic">
@@ -41,6 +42,10 @@
           <li>
             Actively participates in group discussions, groomings and problem
             solving with the team in general.
+          </li>
+          <li>
+            Continually work to support teammates and be considerate of others'
+            opinions, culture and beliefs.
           </li>
         </ul>
       </div>
