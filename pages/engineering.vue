@@ -24,7 +24,7 @@
           <a>Distinguished Engineer</a>
         </li>
         <li>
-          <a>Misc: Tech Lead</a>
+          <a>Misc: Project Lead</a>
         </li>
       </ul>
     </div>
@@ -267,7 +267,8 @@
           </li>
           <li>
             Understands business objectives and incorporates these into this
-            body of work. Critically reviews multiple plans and adjusts as needed.
+            body of work. Critically reviews multiple plans and adjusts as
+            needed.
           </li>
           <li>
             Drives measurable growth by scaling/mentoring teams, affecting
@@ -337,42 +338,52 @@
         </p>
       </div>
       <div>
-        <h2 id="tech-lead">
+        <h2 id="project-lead">
           Misc: Project Lead <a class="direct-link" href="#tech-lead">#</a>
         </h2>
         <p>
-          A Tech Lead is responsible for leading a particular project, and
-          responsible for the quality of its technical deliverables.
+          A Project Lead is responsible for leading a particular project (large
+          or small) and responsible for the quality of its technical
+          deliverables.
         </p>
         <p class="italic">
-          Anyone can be a tech lead at any stage in their career.
+          Anyone can lead a project at any stage in their career.
         </p>
         <ul>
           <li>
-            Involves a good amount of project management- keeping the trains
+            Involves the concept of "owning a project" from the engineering
+            side. Some responsibilities could include one or more of the
+            following:
+            <ul>
+              <li>Identifying the technical approach.</li>
+              <li>
+                Creating task tickets to fill in gaps in acceptance criterea.
+              </li>
+              <li>Timeline management and completion estimates.</li>
+              <li>
+                Communication with stakeholders and managers around progress
+                updates.
+              </li>
+            </ul>
+          </li>
+          <li>
+            Helps organize and facilitate productive feedback sessions with
+            stakeholders.
+          </li>
+          <li>
+            Can include a good amount of project management, keeping the trains
             running on time, keeping folks unblocked, and raising concerns to
-            management when folks are stuck.
-          </li>
-          <li>May at times involve mentoring folks and pair programming.</li>
-          <li>
-            Still involves coding/participation and IC work on a project. This
-            might also mean picking up slack to fill in gaps to round out a
-            project.
-          </li>
-          <li>
-            Helps organize and facilitate productive feedback and feedback
-            sessions with stakeholders.
+            management when folks are stuck or timelines aren't being met.
           </li>
           <li>
             Creates alignment with the overall project goals and how the
             execution is carried out. Brings up conflicts in a productive
-            manner. Also, commits to the product vision once set.
+            manner.
           </li>
           <li>
-            A tech lead gently enforces standards- culture and attitudes
-            included. If the team has misalignment, a tech lead spends time
-            alongside the Engineering Manager to guide them towards
-            productivity.
+            Still involves coding/participation and IC work on a project. This
+            might also mean picking up slack to fill in gaps to round out a
+            project.
           </li>
         </ul>
       </div>
