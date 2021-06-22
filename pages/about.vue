@@ -1,5 +1,6 @@
 <template>
   <section class="maincontent">
+    <app-ladderimg></app-ladderimg>
     <app-about></app-about>
   </section>
 </template>
