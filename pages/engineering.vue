@@ -44,8 +44,11 @@
             solving with the team in general.
           </li>
           <li>
-            Continually work to support teammates and be considerate of others'
+            Continually works to support teammates and is considerate of others'
             opinions, culture and beliefs.
+          </li>
+          <li>
+            Communicates internally and externally in a respectful manner.
           </li>
         </ul>
       </div>
@@ -62,9 +65,6 @@
           <li>
             Works to learn the relevant technologies and systems in place,
             actively maintains and extends the system.
-          </li>
-          <li>
-            Communicates internally and externally in a respectful manner.
           </li>
           <li>
             Makes an impact by delivering features, refactoring existing code,

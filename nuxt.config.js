@@ -4,7 +4,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: "career-ladders",
+    title: "Openfit Career Ladders",
     htmlAttrs: {
       lang: "en"
     },
