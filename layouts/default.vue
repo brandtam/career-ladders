@@ -60,7 +60,7 @@ main {
   min-width: 100%;
   display: grid;
   grid-template-columns: 1.5fr 4fr 0.5fr;
-  grid-template-rows: 75px 250px repeat(3, 1fr) 50px;
+  grid-template-rows: 75px 200px repeat(3, 1fr) 50px;
   grid-column-gap: 80px;
   grid-row-gap: 50px;
 }
@@ -185,7 +185,7 @@ p {
 @media screen and (max-width: 1460px) {
   main {
     grid-template-columns: 1.2fr 3fr 0.3fr;
-    grid-template-rows: 75px 250px repeat(3, 1fr) 50px;
+    grid-template-rows: 75px 200px repeat(3, 1fr) 50px;
     grid-column-gap: 40px;
     grid-row-gap: 30px;
   }
