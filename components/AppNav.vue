@@ -21,7 +21,6 @@
     <div class="nav-display" v-if="isDisplaying">
       <ul @click="isOpen = false">
         <li><nuxt-link to="/engineering/">Engineering</nuxt-link></li>
-        <li><nuxt-link to="/engineeringAlt/">Engineering Alt</nuxt-link></li>
         <li><nuxt-link to="/about/">About</nuxt-link></li>
       </ul>
     </div>
