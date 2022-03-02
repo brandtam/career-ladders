@@ -1,8 +1,7 @@
-# Openfit Career Ladders
+# Career Ladders
 
-Website: [Openfit Career Ladders](https://openfit-career-ladders.netlify.app)
+Website: [Career Ladders](https://brandtam-career-ladders.netlify.app)
 
-Password `careers`
 ___
 
 It's very important to not just put up career ladders and call it a day, but rather, put them into practice with a system that our employees can trust.
