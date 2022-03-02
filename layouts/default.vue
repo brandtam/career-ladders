@@ -1,7 +1,7 @@
 <template>
   <main>
     <aside></aside>
-    <!-- <app-logo></app-logo> -->
+    <app-logo></app-logo>
     <app-title></app-title>
     <app-nav></app-nav>
     <app-github-corner></app-github-corner>
@@ -11,7 +11,7 @@
 </template>
 
 <script>
-// import AppLogo from "@/components/AppLogo.vue";
+import AppLogo from "@/components/AppLogo.vue";
 import AppTitle from "@/components/AppTitle.vue";
 import AppNav from "@/components/AppNav.vue";
 import AppGithubCorner from "@/components/AppGithubCorner.vue";
@@ -19,7 +19,7 @@ import AppFooter from "@/components/AppFooter.vue";
 
 export default {
   components: {
-    // AppLogo,
+    AppLogo,
     AppTitle,
     AppNav,
     AppGithubCorner,
